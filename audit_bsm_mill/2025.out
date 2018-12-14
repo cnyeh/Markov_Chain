@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<audit>
+<file time="Tue Mar  7 08:08:04 2000" msec=" + 0 msec" ></file>
+<record version="2" event="ioctl(2)" modifier="0" time="Tue Mar  7 08:08:04 2000" msec=" + 102015522 msec" >
+<path>///tmp/.X11-pipe/X0</path>
+<attribute mode="10666" uid="root" gid="wheel" fsid="46923776" nodeid="25937" device="45875200" />
+<argument arg-num="2" value="0x4004667f" desc="cmd" />
+<argument arg-num="3" value="0xffbeef94" desc="arg" />
+<subject audit-uid="root" uid="root" gid="daemon" ruid="root" rgid="daemon" pid="2108" sid="2025" tid="0 172.16.115.20" />
+<return errval="success" retval="0" />
+</record>
+<record version="2" event="ioctl(2)" modifier="0" time="Tue Mar  7 08:08:04 2000" msec=" + 102015522 msec" >
+<path>///tmp/.X11-pipe/X0</path>
+<attribute mode="10666" uid="root" gid="wheel" fsid="46923776" nodeid="25937" device="45875200" />
+<argument arg-num="2" value="0x4004667f" desc="cmd" />
+<argument arg-num="3" value="0xffbeef94" desc="arg" />
+<subject audit-uid="root" uid="root" gid="daemon" ruid="root" rgid="daemon" pid="2108" sid="2025" tid="0 172.16.115.20" />
+<return errval="success" retval="0" />
+</record>
+<record version="2" event="ioctl(2)" modifier="0" time="Tue Mar  7 08:08:04 2000" msec=" + 112017705 msec" >
+<path>///tmp/.X11-pipe/X0</path>
+<attribute mode="10666" uid="root" gid="wheel" fsid="46923776" nodeid="25937" device="45875200" />
+<argument arg-num="2" value="0x4004667f" desc="cmd" />
+<argument arg-num="3" value="0xffbeec6c" desc="arg" />
+<subject audit-uid="root" uid="root" gid="daemon" ruid="root" rgid="daemon" pid="2108" sid="2025" tid="0 172.16.115.20" />
+<return errval="success" retval="0" />
+</record>
+<record version="2" event="ioctl(2)" modifier="0" time="Tue Mar  7 08:08:04 2000" msec=" + 112017705 msec" >
+<path>///tmp/.X11-pipe/X0</path>
+<attribute mode="10666" uid="root" gid="wheel" fsid="46923776" nodeid="25937" device="45875200" />
+<argument arg-num="2" value="0x4004667f" desc="cmd" />
+<argument arg-num="3" value="0xffbeef94" desc="arg" />
+<subject audit-uid="root" uid="root" gid="daemon" ruid="root" rgid="daemon" pid="2108" sid="2025" tid="0 172.16.115.20" />
+<return errval="success" retval="0" />
+</record>
+<record version="2" event="ioctl(2)" modifier="0" time="Tue Mar  7 08:08:04 2000" msec=" + 112017705 msec" >
+<path>///tmp/.X11-pipe/X0</path>
+<attribute mode="10666" uid="root" gid="wheel" fsid="46923776" nodeid="25937" device="45875200" />
+<argument arg-num="2" value="0x4004667f" desc="cmd" />
+<argument arg-num="3" value="0xffbeef94" desc="arg" />
+<subject audit-uid="root" uid="root" gid="daemon" ruid="root" rgid="daemon" pid="2108" sid="2025" tid="0 172.16.115.20" />
+<return errval="success" retval="0" />
+</record>
+<file time="Tue Mar  7 08:08:04 2000" msec=" + 0 msec" ></file>
+</audit>
